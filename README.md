@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AlexClassen
+- 👀 I’m interested in Programming/Finance
+- 🌱 I’m currently learning Java/Python
+- 📫 How to reach me classenalex@pt.lu
