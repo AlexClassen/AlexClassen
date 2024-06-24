@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AlexClassen
-- 👀 I’m interested in Programming/Finance
-- 🌱 I’m currently SpringBoot
+- 👀 I’m interested in Programming/Finances
+- 🌱 I’m currently Angular
 - 📫 How to reach me classenalex@pt.lu
