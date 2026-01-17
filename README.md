@@ -1,1 +1,1 @@
-🔗 nexclass.lu
+🔗 [nexclass.lu](nexclass.lu)
